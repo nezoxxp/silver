@@ -1,0 +1,16 @@
+
+@media screen and (max-width:920px){
+    .text{
+        line-height: 27px;
+    }
+}
+@media screen and (max-width:860px){
+    .text{
+        margin-top: 25px;
+    }
+}
+@media screen and (max-width:860px){
+    .text{
+        margin: 0;
+    }
+}
